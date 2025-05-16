@@ -25,7 +25,7 @@ The model is trained using **Linear Regression** and deployed as a web app using
 
 ## 🔧 Tech Stack
 
-- **Python Libraries**: pandas, numpy, scikit-learn, pickle, streamlit
+- **Python Libraries**: pandas, numpy, scikit-learn, pickle, streamlit, matplotlib, seaborn
 
 ---
 
